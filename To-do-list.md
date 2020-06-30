@@ -1,7 +1,6 @@
-### To-do-Schedule
+### To-do-Schedule *2020-06-29~2020-09*
 What would I do in some term
 
-*2020-06-29~2020-09
  * [ ] Finish materials that I learned, especially in /'Data Structure/'
  * [ ] Finish left python krolling study
  * [ ] learn javascript. And C# too if could be possible by books
